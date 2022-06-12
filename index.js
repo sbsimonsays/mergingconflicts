@@ -1,3 +1,3 @@
-function twiceAsOld(dadYearsOld, sonYearsOld) {
-    Math.abs(dadYearsOld - 2 * sonYearsOld)
+function twiceAsOld(dYO, sYO) {
+    Math.abs(dYO - 2 * sYO)
 }
