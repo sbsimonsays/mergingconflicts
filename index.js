@@ -1,8 +1,5 @@
 
-function twiceAsOld(momYearsOld, sonYearsOld) {
-    Math.abs(momYearsOld - 2 * sonYearsOld)
+function twiceAsOld(dYO, sYO) {
+    Math.abs(dYO - 2 * sYO)
 }
-
-// Сalculate how many years ago the mother was twice as old as his son (or in how many years he will be twice as old).
-
 
